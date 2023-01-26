@@ -25,5 +25,4 @@ While I work on it, I spend my spare time riding a bike in the woods or playing 
   <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" height="30"/> </a> 
   <a href="https://ubuntu.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="" height="30"/> </a>
   <a href="https://www.arduino.cc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="" height="30"/> </a>
-  <a href="https://www.raspberrypi.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="" height="30"/> </a>
 </p>
