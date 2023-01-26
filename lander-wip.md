@@ -1,7 +1,7 @@
 # baronefr/**work-in-progress**
 
 ```markdown
-This page contains a list of projects I am currently work on.
+This page contains a list of projects I am currently working on.
 Usually, but not always, the completed projects will be published in a repo.
 ```
 
