@@ -8,10 +8,8 @@ While I work on it, I spend my spare time riding a bike in the woods or playing 
 🔍 **my interest area** [quantum computing], [high performance computing], [deep learning]
 
 ### ➡️ currently attending
-* Neural Networks and Deep Learning
 * Quantum information and computing
-* Quantum cryptography and security
-* Quantum information with atoms and photons
+* Quantum hardware
 
 ### ✉️ Contacts
 - [linkedin](linkedin.com/in/baronefr/)
