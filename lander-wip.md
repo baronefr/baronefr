@@ -19,12 +19,12 @@ will be [public](https://github.com/baronefr/neural-style-transfer) on February 
 
 <br>
 
-### Quantum Information and Computing
+### Quantum Annealing for Neural Network problems with a tensor network approach
 
 ```markdown
 project for *Quantum Information and Computing* class
 
-status: wait for final assignment
+status: work in progress
 ```
 
 due end of March
