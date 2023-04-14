@@ -14,17 +14,17 @@ project for *Neural Networks and Deep Learning* class
 
 status: completed ✅
 ```
-will be [public](https://github.com/baronefr/neural-style-transfer) on February 22nd
+is [public](https://github.com/baronefr/neural-style-transfer) since February 22nd
 
 
 <br>
 
-### Quantum Annealing for Neural Network problems with a tensor network approach
+### Quantum Annealing for Perceptron model via Tensor Network and circuit simulations
 
 ```markdown
 project for *Quantum Information and Computing* class
 
-status: work in progress
+status: completed ✅
 ```
 
-due end of March
+is [public](https://github.com/baronefr/perceptron-dqa) since April
