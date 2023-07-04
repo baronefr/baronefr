@@ -7,11 +7,10 @@ While I work on it, I spend my spare time riding a bike in the woods or playing 
 
 🔍 **my interest area** [quantum computing], [high performance computing], [deep learning]
 
-### ➡️ currently attending
-* Quantum information and computing
-* Quantum hardware
+### ➡️ currently doing
+* Quantum stuff at CERN openlab
 
-### ✉️ Contacts
+### ✉️ contacts
 - [linkedin](linkedin.com/in/baronefr/)
 ```
 
