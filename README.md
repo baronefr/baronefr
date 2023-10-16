@@ -1,8 +1,10 @@
 **MSc at University of Padua**
 
 ```markdown
-My life is a random walk between mountain biking, piano playing and quantum physics. Oh, in my free time I dream about a PhD.
-Crossing paths with computer science and machine learning has been essential to my studies, and I hope to devote my career to researching their applications in quantum and computational physics.
+My life is a random walk between mountain biking, piano playing and quantum physics.
+Oh, in my free time I dream about a PhD.
+Crossing paths with computer science and machine learning has been essential to my studies.
+I hope to devote my career to researching their applications in quantum and computational physics.
 
 🔍 **my interest area** [quantum computing], [qml], [tensor networks]
 
