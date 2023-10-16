@@ -1,8 +1,8 @@
 **MSc at University of Padua**
 
 ```markdown
-I am an enthusiastic (quantum) student. 
-My goal is to take a PhD. While I work on it, I ride a bike in the woods and play piano.
+My life is a random walk between mountain biking, piano playing and quantum physics. Oh, in my free time I dream about a PhD.
+Crossing paths with computer science and machine learning has been essential to my studies, and I hope to devote my career to researching their applications in quantum and computational physics.
 
 🔍 **my interest area** [quantum computing], [qml], [tensor networks]
 
