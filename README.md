@@ -1,10 +1,10 @@
-**MSc at University of Padua**
+**MSc, University of Padua**
 
 ```markdown
-Random walking between mountain biking, piano playing and quantum physics.
-Oh, in my free time I dream about a PhD.
+Random walking between mountain biking, piano playing, and quantum physics.
+Oh, in my free time, I dream about a PhD.
 
-🔍 **my interest area** [quantum computing], [qml], [tensor networks]
+🔍 **my interest area** [quantum computing], [qec], [qml], [tensor networks]
 
 ### ➡️ currently doing
 * quantum thesis at the Quantum Optimization group, Universität Innsbruck
