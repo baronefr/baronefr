@@ -2,13 +2,12 @@
 
 ```markdown
 Random walking between mountain biking, piano playing, and quantum physics.
-Oh, in my free time, I dream about a PhD.
 
 🔍 **my interest area** [quantum computing], [qec], [qml], [tensor networks]
 
 ### ➡️ currently doing
 * quantum thesis at the Quantum Optimization group, Universität Innsbruck
-* quantum stuff at CERN openlab
+* quantum stuff at CERN QTI
 
 ### ✉️ contacts
 - [linkedin](linkedin.com/in/baronefr/)
