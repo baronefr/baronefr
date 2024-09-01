@@ -1,11 +1,11 @@
-**MSc, University of Padua**
+**PhD candidate, University of Padua**
 
 ```markdown
 Random walking between mountain biking, piano playing, and quantum physics.
 
-🔍 **my interest area** [quantum computing], [qec], [qml], [tensor networks]
+🔍 **my interest area** [quantum error correction], [tensor networks], [qml]
 
-### ➡️ currently doing
+### ➡️ previous endeavours
 * quantum thesis at the Quantum Optimization group, Universität Innsbruck
 * quantum stuff at CERN QTI
 
