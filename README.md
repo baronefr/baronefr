@@ -3,7 +3,7 @@
 ```markdown
 Random walking between mountain biking, piano playing, and quantum physics.
 
-🔍 **my interest area** [quantum error correction], [tensor networks], [qml]
+🔍 **my interest area** [quantum algorithms], [quantum error correction], [tensor networks]
 
 ### ➡️ previous endeavours
 * quantum thesis at the Quantum Optimization group, Universität Innsbruck
