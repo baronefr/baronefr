@@ -7,6 +7,7 @@ Random walking between road biking, piano playing, and quantum physics.
 ```
 
 For more information, look at [baronefr.github.io/](http://baronefr.github.io/).
+
 <br>
 
 <p align="left"> 
